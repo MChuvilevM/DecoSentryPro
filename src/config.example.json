@@ -1,0 +1,53 @@
+config.example.json
+[
+  {
+    "MAC": "00-00-00-00-00-01",
+    "Name": "Node_Alpha",
+    "TargetIP": "192.168.1.101"
+  },
+  {
+    "MAC": "00-00-00-00-00-02",
+    "Name": "Node_Beta",
+    "TargetIP": "192.168.1.102"
+  },
+  {
+    "MAC": "00-00-00-00-00-03",
+    "Name": "Node_Gamma",
+    "TargetIP": "192.168.1.103"
+  },
+  {
+    "MAC": "00-00-00-00-00-04",
+    "Name": "Node_Delta",
+    "TargetIP": "192.168.1.104"
+  },
+  {
+    "MAC": "00-00-00-00-00-05",
+    "Name": "Node_Epsilon",
+    "TargetIP": "192.168.1.105"
+  },
+  {
+    "MAC": "00-00-00-00-00-06",
+    "Name": "Node_Zeta",
+    "TargetIP": "192.168.1.106"
+  },
+  {
+    "MAC": "00-00-00-00-00-07",
+    "Name": "Node_Eta",
+    "TargetIP": "192.168.1.107"
+  },
+  {
+    "MAC": "00-00-00-00-00-08",
+    "Name": "Node_Theta",
+    "TargetIP": "192.168.1.108"
+  },
+  {
+    "MAC": "00-00-00-00-00-09",
+    "Name": "Node_Iota",
+    "TargetIP": "192.168.1.109"
+  },
+  {
+    "MAC": "00-00-00-00-00-10",
+    "Name": "Node_Kappa",
+    "TargetIP": "192.168.1.110"
+  }
+]
