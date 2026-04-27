@@ -7,7 +7,7 @@ Advanced mesh-network monitoring system with WPF GUI and automated reporting. Op
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📌 Overview
-**Deco Sentry Pro** is an infrastructure automation tool designed to monitor large-scale TP-Link Deco mesh networks (90+ nodes). Unlike standard monitoring tools, it provides a lightweight, standalone solution with a custom WPF interface, real-time logging, and automated reporting for administrative departments.
+**Deco Sentry Pro** is an infrastructure automation tool designed to monitor large-scale TP-Link Deco mesh networks (10+ nodes). Unlike standard monitoring tools, it provides a lightweight, standalone solution with a custom WPF interface, real-time logging, and automated reporting for administrative departments.
 
 ![DecoSentryPro Demo](assets/demo.gif)
 
